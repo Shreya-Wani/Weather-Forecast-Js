@@ -4,7 +4,7 @@ A simple and responsive weather application that shows current weather condition
 
 🔗 **Live Demo:** [Click here to view](https://shreya-wani.github.io/Weather-Forecast-Js/)
 
-##Screenshot
+**Screenshot**
 ![screenshot](./img.png)
 
 ## Features
