@@ -2,6 +2,9 @@
 
 A simple and responsive weather application that shows current weather conditions using the OpenWeatherMap API. Built with HTML, CSS, and JavaScript.
 
+🔗 **Live Demo:** [Click here to view](https://shreya-wani.github.io/Weather-Forecast-Js/)
+
+##Screenshot
 ![screenshot](./img.png)
 
 ## Features
